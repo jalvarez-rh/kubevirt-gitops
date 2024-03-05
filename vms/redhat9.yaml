@@ -40,7 +40,7 @@ spec:
         storage:
           resources:
             requests:
-              storage: 10Gi
+              storage: 30Gi
   running: true
   template:
     metadata:
